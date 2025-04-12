@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm run build",
+  "devCommand": "pnpm run dev",
+  "installCommand": "pnpm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://wzdavxccbzxnxhdtcjlu.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind6ZGF2eGNjYnp4bnhoZHRjamx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ0MTExNjQsImV4cCI6MjA1OTk4NzE2NH0.jN8zWrSEP_0SS32scSg_MwDOLjMNcJPKyw2bkUUJBqE"
+  }
+} 
